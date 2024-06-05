@@ -27,7 +27,7 @@ return {
   red_key_w  = "#ee5396",
   red_err    = "#ee5396",
   green_func = '#be95ff',
-  green      = "#33b1ff",
+  green      = "#08bdba",
   blue_type  = '#82cfff',
   black1     = "#262626",
   black      = "#393939",
@@ -39,8 +39,8 @@ return {
   gray       = "#262626",
   orange     = "#be95ff",
   boolean    = "#42be65",
-  orange_wr  = "#08bdba",
+  orange_wr  = "#be95ff",
   pink       = "#ff7eb6",
-  yellow     = "#3ddbd9",
+  yellow     = "#33b1ff",
 
 }
